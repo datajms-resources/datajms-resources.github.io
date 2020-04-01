@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JMS website</title>
-    <link>http://interpretable-ia.com/</link>
+    <link>http://interpretable-ai.com/</link>
     <description>Recent content on JMS website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Apr 2020 16:51:53 +0200</lastBuildDate>
     
-	<atom:link href="http://interpretable-ia.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://interpretable-ai.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://interpretable-ia.com/post/my-first-post/</link>
+      <link>http://interpretable-ai.com/post/my-first-post/</link>
       <pubDate>Wed, 01 Apr 2020 16:51:53 +0200</pubDate>
       
-      <guid>http://interpretable-ia.com/post/my-first-post/</guid>
+      <guid>http://interpretable-ai.com/post/my-first-post/</guid>
       <description>Experiment:
 Recent XAI techniques: rules and points/score. Offer different properties.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet nunc sed tellus blandit semper sed at nisl. Donec imperdiet diam eget ultricies fermentum. Aliquam id faucibus dui, in pharetra tortor. Vestibulum quam mi, rhoncus ac placerat sed, dignissim ut leo. Nulla imperdiet quam ut interdum efficitur. Curabitur malesuada mauris justo, id vehicula quam malesuada lobortis. Ut pharetra, orci congue varius scelerisque, est magna fermentum nisl, vel volutpat dolor est eget tortor.</description>
